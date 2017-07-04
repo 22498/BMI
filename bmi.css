@@ -1,0 +1,34 @@
+  body {
+    font-family: sans-serif;
+    background: lightblue;
+  }
+
+h2 {
+  color: black;
+}
+
+  input[type=text],input[type=submit] {
+    padding: 10px;
+    margin:0px;
+  }
+
+  #resultaat {
+    text-align:center;
+  }
+
+  input[type=submit] {
+    width:160px;
+
+  }
+
+  #container {
+    width:324px;
+    height:111px;
+    margin:50px auto;
+
+  }
+
+  .logo {
+    color:black;
+    text-align:center;
+  }
